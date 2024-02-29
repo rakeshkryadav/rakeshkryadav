@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align = "center">Rakesh Kr Yadav</h1>
+<h3 align = "center">Unity Game Developer</h3>
 
-<!--
-**rakeshkryadav/rakeshkryadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖥️Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,visualstudio,dotnet&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=blender&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
+[![My Skills](https://skillicons.dev/icons?i=c,cpp&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkryadav&layout=compact&theme=nightowl)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rakeshkryadav&theme=dark)](https://git.io/streak-stats)
