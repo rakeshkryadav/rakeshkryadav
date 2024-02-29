@@ -1,4 +1,4 @@
-<h1 align = "center">Rakesh Kr Yadav</h1>
+<h1 align = "center">Hi, This is Rakesh</h1>
 <h3 align = "center">Unity Game Developer</h3>
 
 # 🖥️Tech Stack
