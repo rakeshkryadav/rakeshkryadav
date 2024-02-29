@@ -1,9 +1,6 @@
 <h1 align = "center">Hi, This is Rakesh</h1>
 <h3 align = "center">Unity Game Developer</h3>
 
-# 🖥️Working With
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,vscode&theme=dark)](https://skillicons.dev)
-
 # 💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=cs,unity,visualstudio,dotnet&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
 [![My Skills](https://skillicons.dev/icons?i=blender&theme=dark)](https://skillicons.dev) &nbsp; &nbsp;
